@@ -2,8 +2,9 @@ This project strictly focuses on performance evaluation of different versions of
 
 **Single Colorspace(Default):**
 https://docs.google.com/spreadsheets/d/1yve527pwytxATriRHKldigQqtRY2BCCo6ahLaXthiTQ/edit?gid=1951829901#gid=1951829901
-![1](https://github.com/user-attachments/assets/ef254070-87ba-4c18-a288-47566ec9e8c3)
-![2](https://github.com/user-attachments/assets/57269f2d-59a4-44a4-933b-b324cf902f55)
+![image](https://github.com/user-attachments/assets/2d134635-fc88-45b3-8a1a-3d6893e1574f)
+![image](https://github.com/user-attachments/assets/5274abfe-4b50-4d41-8639-df0cf7a2e8cb)
+
 
 **Multiple Colorspace:**
 https://docs.google.com/spreadsheets/d/1yve527pwytxATriRHKldigQqtRY2BCCo6ahLaXthiTQ/edit?gid=1361704201#gid=1361704201
